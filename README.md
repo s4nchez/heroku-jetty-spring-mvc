@@ -7,7 +7,7 @@ Probably the easiest way to get a public Java webapp up and running.
 
 ##How to use
 
-1. Create a [Heroku](http://www.heroku.com/) and install the [Heroku Toolbelt](https://toolbelt.heroku.com/)
+1. Create a [Heroku](http://www.heroku.com/) account and install the [Heroku Toolbelt](https://toolbelt.heroku.com/)
 1. Clone this repo.
 1. Create a Heroku app:
 ```
